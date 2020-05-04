@@ -1,0 +1,12 @@
+D:\Practice\Net Things\Database Juggler\Database Juggler\bin\Debug\Database Juggler.exe.config
+D:\Practice\Net Things\Database Juggler\Database Juggler\bin\Debug\Database Juggler.exe
+D:\Practice\Net Things\Database Juggler\Database Juggler\bin\Debug\Database Juggler.pdb
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database_Juggler.Form1.resources
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database_Juggler.Properties.Resources.resources
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database Juggler.csproj.GenerateResource.cache
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database Juggler.csproj.CoreCompileInputs.cache
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database Juggler.exe
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database Juggler.pdb
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database_Juggler.Login_Form.resources
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database_Juggler.Owlimginput.resources
+D:\Practice\Net Things\Database Juggler\Database Juggler\obj\Debug\Database Juggler.csprojAssemblyReference.cache
