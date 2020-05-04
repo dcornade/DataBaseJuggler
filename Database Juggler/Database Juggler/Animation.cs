@@ -12,11 +12,11 @@ using System.Data.OleDb;
 using System.Threading;
 using System.Drawing.Drawing2D;
 
-namespace System.Animation
+namespace Animation
 {
     public class Animation
     {
-        public System.Windows.Forms.Timer timer1 = new Windows.Forms.Timer();
+        public System.Windows.Forms.Timer timer1 = new System.Windows.Forms.Timer();
         public Control c;
         public int L, T, t, trns1, trns2, chnge1 = 0, chnge2 = 0, r1, r2,x,y,intrvl , intrvl1, intrvl2,tr1,tr2 ;
         public Animation()

@@ -81,7 +81,6 @@
             this.owlimginput3 = new Database_Juggler.Owlimginput();
             this.owlimginput2 = new Database_Juggler.Owlimginput();
             this.owlimginput1 = new Database_Juggler.Owlimginput();
-            this.label22 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -148,7 +147,6 @@
             // 
             // panel8
             // 
-            this.panel8.Controls.Add(this.label22);
             this.panel8.Controls.Add(this.label21);
             this.panel8.Controls.Add(this.label20);
             this.panel8.Controls.Add(this.label19);
@@ -552,7 +550,7 @@
             this.owlimginput10.IsError = false;
             this.owlimginput10.isicon = true;
             this.owlimginput10.Ispassword = true;
-            this.owlimginput10.Location = new System.Drawing.Point(28, 180);
+            this.owlimginput10.Location = new System.Drawing.Point(28, 185);
             this.owlimginput10.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.owlimginput10.Name = "owlimginput10";
             this.owlimginput10.Size = new System.Drawing.Size(285, 38);
@@ -569,7 +567,7 @@
             this.owlimginput9.IsError = false;
             this.owlimginput9.isicon = true;
             this.owlimginput9.Ispassword = true;
-            this.owlimginput9.Location = new System.Drawing.Point(27, 124);
+            this.owlimginput9.Location = new System.Drawing.Point(27, 126);
             this.owlimginput9.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.owlimginput9.Name = "owlimginput9";
             this.owlimginput9.Size = new System.Drawing.Size(285, 38);
@@ -709,16 +707,6 @@
             this.owlimginput1.TabIndex = 18;
             this.owlimginput1.Textin = "Username...";
             // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.label22.Location = new System.Drawing.Point(32, 219);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(0, 13);
-            this.label22.TabIndex = 26;
-            // 
             // Login_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -763,7 +751,7 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label3;
-        private System.Animation.Animation Animation;
+        private Animation.Animation Animation;
         private Owlimginput owlimginput2;
         private Owlimginput owlimginput1;
         private System.Windows.Forms.Label label4;
@@ -800,6 +788,5 @@
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
     }
 }

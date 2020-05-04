@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
-using System.Animation;
+using Animation;
 
 namespace Database_Juggler
 {
@@ -236,7 +236,7 @@ namespace Database_Juggler
             {
                 con();
                 cn.Open();
-                string sql = "insert into log values (\"" + owlimginput8.Textin + "\", \"" + owlimginput9.Textin + "\" , \"\", \"\");";
+                string sql = "insert into log values (\"" + owlimginput8.Textin + "\", \"" + owlimginput9.Textin + "\" , \"\");";
                 OleDbCommand cmd = new OleDbCommand(sql, cn);
                 cmd.ExecuteNonQuery();
                 Animation.Move(0, 542, panel7, 25);
